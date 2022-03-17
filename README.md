@@ -12,4 +12,3 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ JavaScript
 ✅ PHP
 ✅ HTML5 / CSS3 / SASS / Bootstrap
-
