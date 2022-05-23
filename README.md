@@ -11,4 +11,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ WordPress
 ✅ JavaScript
 ✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
+✅ HTML5 | CSS3 | SASS | Bootstrap
+✅ Graphic's Design | Photo Editing | 3D Design | Photography
+✅ Video Editing | Videography
